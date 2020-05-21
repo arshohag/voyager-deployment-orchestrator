@@ -25,7 +25,7 @@ Next, open the `config/voyager-deployment-orchestrator.php` and add the tables n
 ```
 return [
     'tables' => [
-        users
+        'users'
     ],
 ];
 ```
